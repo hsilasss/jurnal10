@@ -30,3 +30,4 @@ D:\jurnal10_1302220087\jurnal10_1302220087\obj\Debug\net8.0\refint\jurnal10_1302
 D:\jurnal10_1302220087\jurnal10_1302220087\obj\Debug\net8.0\jurnal10_1302220087.pdb
 D:\jurnal10_1302220087\jurnal10_1302220087\obj\Debug\net8.0\jurnal10_1302220087.genruntimeconfig.cache
 D:\jurnal10_1302220087\jurnal10_1302220087\obj\Debug\net8.0\ref\jurnal10_1302220087.dll
+D:\jurnal10_1302220087\jurnal10_1302220087\obj\Debug\net8.0\jurnal10_1302220087.sourcelink.json
